@@ -1,0 +1,14 @@
+C:\Users\Bobby\source\repos\Project1\City_API\bin\Release\netcoreapp2.0\City_API.deps.json
+C:\Users\Bobby\source\repos\Project1\City_API\bin\Release\netcoreapp2.0\City_API.runtimeconfig.json
+C:\Users\Bobby\source\repos\Project1\City_API\bin\Release\netcoreapp2.0\City_API.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\Project1\City_API\bin\Release\netcoreapp2.0\City_API.dll
+C:\Users\Bobby\source\repos\Project1\City_API\bin\Release\netcoreapp2.0\City_API.pdb
+C:\Users\Bobby\source\repos\Project1\City_API\bin\Release\netcoreapp2.0\Utilities.dll
+C:\Users\Bobby\source\repos\Project1\City_API\bin\Release\netcoreapp2.0\Utilities.pdb
+C:\Users\Bobby\source\repos\Project1\City_API\obj\Release\netcoreapp2.0\City_API.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\Project1\City_API\obj\Release\netcoreapp2.0\City_API.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\Project1\City_API\obj\Release\netcoreapp2.0\City_API.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\Project1\City_API\obj\Release\netcoreapp2.0\City_API.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\Project1\City_API\obj\Release\netcoreapp2.0\City_API.csproj.CopyComplete
+C:\Users\Bobby\source\repos\Project1\City_API\obj\Release\netcoreapp2.0\City_API.dll
+C:\Users\Bobby\source\repos\Project1\City_API\obj\Release\netcoreapp2.0\City_API.pdb
